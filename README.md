@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Wirunwit Worawirat, a physics MSc student at Chalmers University of Technology in Sweden 🇸🇪  <br>
+I’m Wirunwit Worawirat, a physics MSc student at Chalmers University of Technology, Sweden 🇸🇪  <br>
 I completed my BSc in physics at Mahidol University, Thailand 🇹🇭
 
 <!--
